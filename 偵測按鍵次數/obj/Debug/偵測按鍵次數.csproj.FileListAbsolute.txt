@@ -1,0 +1,16 @@
+E:\程序\C#\Windows Form\測試  Test\偵測按鍵次數\偵測按鍵次數\bin\Debug\偵測按鍵次數.exe.config
+E:\程序\C#\Windows Form\測試  Test\偵測按鍵次數\偵測按鍵次數\bin\Debug\偵測按鍵次數.exe
+E:\程序\C#\Windows Form\測試  Test\偵測按鍵次數\偵測按鍵次數\bin\Debug\偵測按鍵次數.pdb
+E:\程序\C#\Windows Form\測試  Test\偵測按鍵次數\偵測按鍵次數\obj\Debug\偵測按鍵次數.csproj.AssemblyReference.cache
+E:\程序\C#\Windows Form\測試  Test\偵測按鍵次數\偵測按鍵次數\obj\Debug\偵測按鍵次數.csproj.SuggestedBindingRedirects.cache
+E:\程序\C#\Windows Form\測試  Test\偵測按鍵次數\偵測按鍵次數\obj\Debug\MainWindow.g.cs
+E:\程序\C#\Windows Form\測試  Test\偵測按鍵次數\偵測按鍵次數\obj\Debug\App.g.cs
+E:\程序\C#\Windows Form\測試  Test\偵測按鍵次數\偵測按鍵次數\obj\Debug\偵測按鍵次數_MarkupCompile.cache
+E:\程序\C#\Windows Form\測試  Test\偵測按鍵次數\偵測按鍵次數\obj\Debug\偵測按鍵次數_MarkupCompile.lref
+E:\程序\C#\Windows Form\測試  Test\偵測按鍵次數\偵測按鍵次數\obj\Debug\MainWindow.baml
+E:\程序\C#\Windows Form\測試  Test\偵測按鍵次數\偵測按鍵次數\obj\Debug\偵測按鍵次數.g.resources
+E:\程序\C#\Windows Form\測試  Test\偵測按鍵次數\偵測按鍵次數\obj\Debug\偵測按鍵次數.Properties.Resources.resources
+E:\程序\C#\Windows Form\測試  Test\偵測按鍵次數\偵測按鍵次數\obj\Debug\偵測按鍵次數.csproj.GenerateResource.cache
+E:\程序\C#\Windows Form\測試  Test\偵測按鍵次數\偵測按鍵次數\obj\Debug\偵測按鍵次數.csproj.CoreCompileInputs.cache
+E:\程序\C#\Windows Form\測試  Test\偵測按鍵次數\偵測按鍵次數\obj\Debug\偵測按鍵次數.exe
+E:\程序\C#\Windows Form\測試  Test\偵測按鍵次數\偵測按鍵次數\obj\Debug\偵測按鍵次數.pdb
